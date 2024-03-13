@@ -68,3 +68,87 @@ ros2 param load turtlesim turtlesim.yaml
 - ifconfig on linux
   
 #### 分布式DOMAIN配置
+- make sure both devices are in the same wifi
+- login raspberrypi on linux
+  ```shell
+  ssh gyh@192.168.3.211 // modify based the real name and ip address
+  ```
+
+- 分组通讯
+  ```shell
+  // on rasppi, modify the bashrc file
+  vi ~/.bashrc
+  export ROS_DOMAIN_ID=30
+  :wq
+  source ~/.bashrc
+
+
+  // on PC, modify the bashrc file
+  same as above
+  ```
+
+### DDS: 机器人的神经网络
+> 常用的通信模式
+> ![](images/2024-03-13-07-56-32.png)
+
+#### DDS
+- Data Distribution Service 数据分发服务
+- ![](images/2024-03-13-07-58-39.png)
+- 在命令行中配置参数
+  ```shell
+  ros2 topic pub /msg_name msg_type "data" 
+  ```
+- 在python中配置参数
+  ```python
+    from msg_name.msg import MsgType
+    from rclpy.qos import QoSProfile, QosReliabilityPolicy, QosHistoryPolicy
+    
+    class PublisherNode(Node):
+      def __init__(self):
+        super().__init__("publisher_node")
+        qos_profile = QoSProfile
+        (
+          reliability=QosReliabilityPolicy.BEST_EFFORT,
+          history=QosHistoryPolicy.KEEP_LAST,
+          depth=10
+        )
+        self.pub = self.create_publisher(String, "chatter", qos_profile) 
+        self.timer = self.create_timer(0.5, self.timer_callback)
+
+      def timer_callback(self):
+        msg = String()
+        msg.data = "Hello World: %d" % self.i
+        self.pub.publish(msg)
+        self.get_logger().info("Publishing: '%s'" % msg.data)
+        self.i += 1
+  ```
+
+### Launch: 多节点启动与配置脚本
+> 需求: 想要一次性启动多个节点
+> 方案: 使用launch文件
+#### Launch文件
+- launch文件看起来像是python文件
+- 像粘合剂一样可以自由组织workflow
+
+- example 
+  ```python
+  ros2 launch learning_launch simple_launch.py
+  ```
+- simple_launch.py
+  ```python
+  from launch import LaunchDescription           # launch文件的描述类
+  from launch_ros.actions import Node            # 节点启动的描述类
+
+  def generate_launch_description():             # 自动生成launch文件的函数
+      return LaunchDescription([                 # 返回launch文件的描述信息
+          Node(                                  # 配置一个节点的启动
+              package='learning_topic',          # 节点所在的功能包
+              executable='topic_helloworld_pub', # 节点的可执行文件
+          ),
+          Node(                                  # 配置一个节点的启动
+              package='learning_topic',          # 节点所在的功能包
+              executable='topic_helloworld_sub', # 节点的可执行文件名
+          ),
+      ])
+  ```
+
