@@ -21,6 +21,7 @@ Welcome to the QuickNode Development Manual. This guide will walk you through th
       - [Step 3: Create a new class for Addition Calculator Node in createprocess.py](#step-3-create-a-new-class-for-addition-calculator-node-in-createprocesspy)
       - [Step 4: Using Pyinstaller to create the plugin exe](#step-4-using-pyinstaller-to-create-the-plugin-exe)
       - [Step 5: Create the conf file with same name of plugin](#step-5-create-the-conf-file-with-same-name-of-plugin)
+    - [Compared with devlopment in C++](#compared-with-devlopment-in-c)
     - [Details (About structure itself, will be presented in next Week)](#details-about-structure-itself-will-be-presented-in-next-week)
   - [Summary](#summary)
 
@@ -164,6 +165,17 @@ pyinstaller --onefile --name qn_Test --distpath D:\Reserch\bin\plugins\executabl
 }
 }
 ```
+### Compared with devlopment in C++
+- Advantages
+  - **simple to code**
+  - Without CMake preknowledge
+  - Easy to debug
+  - ...
+- Disadvantages
+  - Big size of exe file
+  - Need brige communcation between Python and C++, especially for some c++ SDKs
+  - ...
+
 ### Details (About structure itself, will be presented in next Week)
 ...
 
@@ -171,3 +183,4 @@ pyinstaller --onefile --name qn_Test --distpath D:\Reserch\bin\plugins\executabl
 
 In this guide, we have walked through the process of creating a plugin for QuickNode in Python. We have also provided a demo of creating an Addition Calculator Node. We hope this guide has been helpful to you. If you have any questions, please feel free to contact us.
 
+coding from scra
