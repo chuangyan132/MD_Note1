@@ -36,4 +36,3 @@ git pull --tags origin main --rebase
 #3, Fast-Forward Only reply local changes on top of the fetched branch
 git pull --tags origin main --ff-only
 ```
-
