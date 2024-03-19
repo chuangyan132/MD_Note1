@@ -131,4 +131,4 @@ def run_scan_prog(socket_robot):
 ## Documentation from Elite Robot
 - [Elite Robot](https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWr7lqbQZT3oRgxDjVGXn6lpz?utm_scene=team_space)
 ## Summary
-- The plugin is used to control the Elite Robot. Inside we defined a workflow, which starts from connectting with robot, setting servo, selectting files, checkking the status, disconnectting until robot has finished one times job.
+- The plugin is used to control the Elite Robot. Inside we defined a workflow, which starts from connecting with robot, setting servo, selecting files, checking the status, disconnecting until robot has finished one times job.

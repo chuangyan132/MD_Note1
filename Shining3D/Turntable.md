@@ -123,7 +123,5 @@ void CTCPClient::CloseAndReleaseResources()
 ```
 ## Documentation from Turntable
 - [Turntable Manual](https://alidocs.dingtalk.com/i/nodes/m9bN7RYPWdlgYX3KFxZAe4N3WZd1wyK0?utm_scene=team_space)
-
-## 
 ## Summary
 The turntable is a device that can rotate the object to a specific angle. It is used to rotate the object to a specific angle for scanning or other purposes.

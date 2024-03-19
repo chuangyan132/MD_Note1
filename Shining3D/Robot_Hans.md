@@ -162,4 +162,4 @@ struct HansCtrlCmmd
 - [Hans Robot V5 SDK en](https://alidocs.dingtalk.com/i/nodes/mExel2BLV54XByMoHQeO3X2LWgk9rpMq?utm_scene=team_space)
 - [Hans Robot Internet Conf ch](https://alidocs.dingtalk.com/i/nodes/m9bN7RYPWdlgYX3KFxZ9NvzzWZd1wyK0?utm_scene=team_space)
 ## Summary
-- The plugin is used to control the Hans Robot. Inside we defined a workflow, which starts from creating socket, connecting to robot, selectting files, checkking the status, disconnectting until robot has finished one times job.
+- The plugin is used to control the Hans Robot. Inside we defined a workflow, which starts from creating socket, connecting to robot, selecting files, checking the status, disconnecting until robot has finished one times job.

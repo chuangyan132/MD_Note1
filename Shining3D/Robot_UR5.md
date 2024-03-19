@@ -151,4 +151,4 @@ std::string ur5ip1 = "192.168.1.200";
 - [UR Robot](https://alidocs.dingtalk.com/i/nodes/KGZLxjv9VG3RBdyjc5OR0BjmV6EDybno?utm_scene=team_space)
 
 ## Summary
-- The plugin is used to control the universal Robot. Inside we defined a workflow, which starts from connectting Robot, loadding files, selectting files, checkking the status, disconnectting until robot has finished one times job.
+- The plugin is used to control the universal Robot. Inside we defined a workflow, which starts from connecting Robot, loading files, selecting files, checking the status, disconnecting until robot has finished one times job.
