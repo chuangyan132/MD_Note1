@@ -1,0 +1,88 @@
+# English 
+## Day1
+### Software
+#### Standalone Application
+##### 独立应用
+- Definition: A standalone application is a software program that does not require any software other than the operating system to run.
+- 基本释义：独立应用是一个不需要除操作系统之外的任何软件就能运行的软件程序。
+- Common Collocations: Standalone software, Standalone system, Standalone device
+- 常用搭配：独立软件，独立系统，独立设备
+- Example Sentence: This is a standalone application that can run without internet connectivity.
+- 例句：这是一个可以在没有互联网连接的情况下运行的独立应用。
+#### In this workflow, Omniverse Isaac Sim is launched via a python script, inside which the rendering and physics are stepped manually, to guarantee that stepping only happens after ascertain the completion of a set of commands.
+- rigging rigid bodies with joints and articulations
+- 用关节和关节装置装配刚体
+- showcase
+- 展示 
+- inspect
+- 检查
+- manipulate
+- 操纵
+- collision
+  - 碰撞
+  - collision detection 碰撞检测
+- Examine
+  - 检查
+  - Examine the scene 检查场景
+- friction
+  - 摩擦
+  - frictionless 无摩擦
+- gizmo
+  - 基本释义：小装置是一个小工具，尤其是说话者不知道或不能记住其名称的工具。
+  - Common Collocations: Useful gizmo, Electronic gizmo, Kitchen gizmo
+- rigid
+  - 刚性的
+  - rigid body 刚体
+  - common collocations: rigid structure, rigid material, rigid body
+- consecutively
+  - 连续地
+  - consecutively numbered 连续编号
+  - common collocations: consecutively numbered, consecutively ordered, consecutively arranged
+  - 近义词: successively. sequentially, continuously
+- “Rigid Body with Colliders Preset”
+  - 带有碰撞器预设的刚体
+  - 在游戏开发中，特别是在物理引擎中，经常使用“带有碰撞器预设的刚体”这个术语。它指的是一个带有预配置碰撞器（处理物理碰撞的组件）的刚体（可以进行物理模拟和移动的对象）。
+- Examine Collision Meshes
+  - 检查碰撞网格
+- Purple outlines
+  - 紫色轮廓
+- cuboid
+  - 长方体
+- Friction
+  - 摩擦
+- spotlight
+  - 聚光灯
+- hierarchy
+  - 层次结构
+- Flattened
+  - 扁平化
+- Assets
+  - 资产
+- demonstrate
+  - 演示
+  - demonstrate the workflow 演示工作流程
+- mock
+  - 模拟
+  - mock robot 模拟机器人
+- prim
+  - 基本释义：原始的，基本的
+  - single prim
+- assemble
+  - 装配
+  - assemble the robot 装配机器人
+- dedicate
+  - 专用于
+  - dedicate to the task 专用于任务
+- sophisticated
+  - 复杂的
+  - sophisticated robot 复杂的机器人
+- rig
+  - 绑定
+  - rig the robot with three links and two revolute joints 用三个连杆和两个旋转关节绑定机器人
+- revolute
+  - 旋转的
+  - revolute joint 旋转关节
+- articulation
+  - 关节
+  - articulation joint 关节
+- 
