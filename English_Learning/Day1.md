@@ -11,13 +11,13 @@
 - 例句：这是一个可以在没有互联网连接的情况下运行的独立应用。
 #### In this workflow, Omniverse Isaac Sim is launched via a python script, inside which the rendering and physics are stepped manually, to guarantee that stepping only happens after ascertain the completion of a set of commands.
 - rigging rigid bodies with joints and articulations
-- 用关节和关节装置装配刚体
+  - 用关节和关节装置装配刚体
 - showcase
-- 展示 
+  - 展示 
 - inspect
-- 检查
+  - 检查
 - manipulate
-- 操纵
+  - 操纵
 - collision
   - 碰撞
   - collision detection 碰撞检测
@@ -48,8 +48,6 @@
   - 紫色轮廓
 - cuboid
   - 长方体
-- Friction
-  - 摩擦
 - spotlight
   - 聚光灯
 - hierarchy
@@ -85,4 +83,3 @@
 - articulation
   - 关节
   - articulation joint 关节
-- 

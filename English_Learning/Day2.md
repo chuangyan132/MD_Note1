@@ -1,0 +1,142 @@
+- stiffness 
+  - n. the quality of being stiff and difficult to bend or move
+  - e.g. The stiffness of the new shoes made it difficult for me to walk.
+  - 硬度
+- damping
+  - n. the act of making something less strong or less active
+  - e.g. The damping of the sound made it difficult to hear the speaker.
+  - 阻尼
+- fidelity
+  - 保真度
+  - n. the quality of being faithful or loyal
+- descendant 
+  - Each descendant fixed joint will be defining an articulation base link. 
+  - 后代，每个后代固定关节将定义一个关节基本链接。
+- 感知环境和机械臂的状态
+  - sense the environment and robot's statte
+- wireframe 
+  -  and a grey wireframe representing the camera’s view will appear on the stage.
+  - representation of a 3D object using lines to denote the edges and vertices
+  -  e.g. A grey wireframe representing the camera’s view will appear on the stage.
+  -  线框模型
+-  aperture 
+  - n. the opening in a lens through which light passes to enter the camera
+  - e.g. A larger aperture allows more light to reach the camera sensor.
+  - 光圈
+- Interactive Scripting
+    - n. a style of programming where the developer can write and execute code in real-time
+    - e.g. Python's Interactive mode is an example of Interactive Scripting.
+    - 交互式脚本编程
+- interactively
+    - adv. in a way that involves or allows interaction or engagement
+    - e.g. The program runs interactively, allowing the user to input commands in real-time.
+    - 交互式地
+- query
+    - n. a request for data or information from a database
+    - e.g. The database returned the results of the query in a table.
+    - 查询
+- underlying format
+    - n. the basic structure or layout that a system, document, or data follows
+    - e.g. The underlying format of the document is Markdown.
+    - 基础格式
+- versatile
+    - adj. able to adapt or be adapted to many different functions or activities
+    - e.g. He's a versatile actor who has played a wide variety of roles.
+    - 多功能的
+- harness
+    - v. to control and make use of (natural resources), especially to produce energy
+    - e.g. Attempts to harness solar energy have had mixed success.
+    - 利用
+- backend
+    - n. the data processing part of a system or application, as opposed to the user interface
+    - e.g. The backend of the application handles data storage and business logic.
+    - 后端
+- Replicators
+    - n. entities that can reproduce themselves, often used in the context of molecules, cells, or artificial life in computer science
+    - e.g. DNA molecules are natural replicators.
+    - 复制器
+- Jetbot
+    - n. a small mobile robot based on the NVIDIA Jetson Nano platform, often used for educational purposes in AI and robotics
+    - e.g. The Jetbot is a popular choice for learning about AI and robotics.
+    - 捷特机器人
+- placeholder
+    - n. a symbol or word that is used to represent a value in a mathematical or computational operation, or a temporary substitute for a final piece of content in a design
+    - e.g. In the design mockup, a grey box was used as a placeholder for the image.
+    - 占位符
+- Television
+    - n. a system for transmitting visual images and sound that are reproduced on screens, primarily used for broadcasting programs for entertainment, news, and education
+    - e.g. He spends too much time watching television.
+    - 电视
+- holonomic
+    - adj. referring to a system, especially a robotic system, where all degrees of freedom are controllable
+    - e.g. A holonomic robot can move in any direction without needing to turn.
+    - 全约束的
+- hobbyist
+    - n. a person who pursues a particular hobby
+    - e.g. He's a hobbyist who enjoys model train building.
+    - 爱好者
+- intermediate
+    - adj. being or occurring at the middle place, stage, or degree or between extremes
+    - e.g. He's at an intermediate level in French.
+    - 中级的
+- implementation
+    - n. the process of making a design, plan, or decision operational and functional
+    - e.g. The implementation of the new software system took several months.
+    - 实现
+- entrypoint
+    - n. the first instruction or operation executed in a program, or the place where control is transferred to when a program is invoked
+    - e.g. The main function serves as the entrypoint in many programming languages.
+    - 入口点
+- FloatField
+    - n. a field in a database or a programming language that can hold a real number, allowing for decimal points
+    - e.g. In Django, you can use a FloatField to store decimal numbers in your database.
+    - 浮点字段
+- governing
+    - adj. having the power to make and enforce laws and decisions
+    - e.g. The governing body of the institution sets the policies.
+    - 统治的
+- singleton
+    - n. in programming, a design pattern that restricts the instantiation of a class to a single instance
+    - e.g. The Singleton pattern ensures a class has only one instance, and provides a global point of access to it.
+    - 单例
+- cone
+    - n. a solid or hollow object which tapers from a circular or roughly circular base to a point
+    - e.g. The traffic cone was placed to warn drivers of the road work.
+    - 圆锥体
+- tedious
+    - adj. too long, slow, or dull; tiresome or monotonous
+    - e.g. It was a tedious task, but it was necessary.
+    - 乏味的
+- unactuated
+    - adj. not operated by a means of mechanical force or electricity
+    - e.g. The unactuated valve remains in its default state.
+    - 未被驱动的
+- actuated
+    - adj. operated by a means of mechanical force or electricity
+    - e.g. The actuated valve controls the flow of the liquid.
+    - 由...驱动的
+- fork
+    - n. a tool with two or more prongs used for eating or serving food, or in programming, a point at which a replication of a process starts
+    - e.g. She used a fork to eat her salad. / The developer created a fork of the open-source project.
+    - 叉子 / 分叉
+- pellet
+    - n. a small, rounded, compressed mass of a substance
+    - e.g. The rabbit food was in the form of small pellets.
+    - 颗粒
+- prismatic
+    - adj. of, relating to, or having the form of a prism or prisms
+    - e.g. The prismatic crystal refracted the light into a rainbow of colors.
+    - 棱镜的
+- propel
+    - v. to drive, or cause to move, forward or onward
+    - e.g. The wind propelled the boat.
+    - 推进
+- pivot
+    - n. the central point, pin, or shaft on which a mechanism turns or oscillates
+    - v. to turn or rotate, like a door on a hinge
+    - e.g. The dancer made a pivot on her heel. / The company decided to pivot their strategy towards digital marketing.
+    - 枢轴 / 旋转
+- sticker
+    - n. a piece of paper or plastic, often with adhesive on one side, that can be attached to something, usually for decoration or to display information
+    - e.g. She put a sticker on her laptop.
+    - 贴纸
