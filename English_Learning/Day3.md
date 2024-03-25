@@ -1,0 +1,61 @@
+- contribute
+  - - contribute
+  - v. to give (something, such as time, money, or goods) to help achieve or provide something
+  - e.g. She contributes to the project in her free time.
+  - 贡献
+- distribute
+    - v. to give out shares or portions of something; to spread over an area
+    - e.g. The teacher distributed the textbooks to the students.
+    - 分发
+    "Contribute" 的意思是为了帮助实现或提供某事而给予（如时间、金钱或物品）。例如，"She contributes to the project in her free time."（她在空闲时间为项目做出贡献。）
+    "Distribute" 的意思是分发或分配某事，或者将其分布在某个区域。例如，"The teacher distributed the textbooks to the students."（老师将教科书分发给学生。）
+- Miscellaneous
+    - adj. consisting of a mixture of various things that are not usually connected with each other
+    - e.g. The drawer contained a miscellaneous collection of odds and ends.
+    - 杂项
+- swag
+    - n. free promotional items given away at events or conferences, or a curtain or piece of fabric fastened so as to hang in a drooping curve
+    - e.g. He picked up some swag at the tech conference.
+    - 赠品 / 垂饰
+- Deprecated
+    - adj. (in the context of software) refers to functions or elements that are in the process of being replaced by newer ones
+    - e.g. The old software method is now deprecated.
+    - 已弃用
+- RHEL 9
+  - Red Hat Enterprise Linux 9
+- notion
+    - n. a conception or idea
+    - e.g. She had a vague notion about what happened.
+    - 概念
+- underlay
+    - n. a layer of material placed under another type, such as carpet, to provide softness and support
+    - v. to place something under (something else), especially to support or raise it
+    - e.g. We decided to underlay the carpet with high-quality padding.
+    - 垫层 / 放在...下面
+- overlays
+    - n. something laid as a covering over something else
+    - v. to cover the surface of (something) with a coating
+    - e.g. The map has an overlay of the city's population density.
+    - 覆盖物 / 覆盖
+- concurrently
+    - adv. happening at the same time
+    - e.g. The two events are scheduled to happen concurrently.
+    - 并发地
+- accomplished
+    - adj. highly trained or skilled in a particular activity
+    - e.g. She is an accomplished pianist.
+    - 精通的
+- maintain
+    - v. to keep in an existing state (as of repair, efficiency, or validity)
+    - e.g. We need to maintain the car regularly to keep it running smoothly.
+    - 维护
+- 遇到任何问题
+  - face any issues
+- upcoming
+  - adj. happening soon
+  - e.g. The upcoming election is causing a lot of debate.
+  - 即将来临的
+- introspects
+    - v. to examine one's own thoughts, feelings, and sensations
+    - e.g. He introspects regularly to understand his emotions better.
+    - 自省
