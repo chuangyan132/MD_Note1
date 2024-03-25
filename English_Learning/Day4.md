@@ -1,0 +1,79 @@
+- transmitted
+  - transmitted
+  - v. past tense of transmit, meaning to send or convey from one person or place to another
+  - e.g. The data was transmitted from the computer to the server.
+  - 传输
+- bumper
+    - n. a bar or shield on the front and back of a motor vehicle for absorbing shock in a collision
+    - e.g. The car's bumper was damaged in the accident.
+    - 保险杠
+- native driver
+    - n. a software component that allows a computer's operating system to interact with a hardware device
+    - e.g. The graphics card requires a native driver to function properly.
+    - 原生驱动
+- convention
+    - n. a way in which something is usually done, especially within a particular area or activity
+    - e.g. The convention in programming is to write code that is easy to understand and maintain.
+    - 惯例
+- evolve
+    - v. to develop gradually, or to cause something or someone to develop gradually
+    - e.g. The company has evolved over the years into a multi-million dollar organization.
+    - 进化
+- colliding
+    - from: collide
+    - v. coming into conflict or disagreement
+    - e.g. Their views on the issue collided.
+    - 冲突
+- trajectory
+    - n. the path followed by a projectile flying or an object moving under the action of given forces
+    - e.g. The missile's trajectory was tracked by radar.
+    - 轨迹
+- facilitate
+    - v. to make something possible or easier
+    - e.g. The new ramp will facilitate the entry of wheelchairs.
+    - 促进
+- accumulative
+    - from: accumulate
+    - adj. increasing by successive additions
+    - e.g. The accumulative effect of using energy-saving light bulbs is significant.
+    - 累积的
+ROS Client Library(RCL)
+- Any client library for another language (Rust8, Go9, Java10, .NET11, ...), should
+ be built on top of rcl.
+
+DDS (Data Distribution Service)
+- 定义了一套标准的通信规则，使得不同来源的数据可以在各种网络环境下可靠地、高效地分发和管理。
+- 如何使用
+- vendors
+    - n. a person or company offering something for sale, especially a trader in the street
+    - e.g. The fruit vendor sells fresh produce every day.
+    - 供应商
+- ironically
+    - from: ironic
+    - adv. in a way that is interesting, strange, or funny because of being very different from what you would usually expect
+    - e.g. Ironically, the book she disliked most was the one that made her famous.
+    - 讽刺地
+- coincide
+    - v. to happen at or near the same time
+    - e.g. The two events coincided.
+    - 同时发生
+- by convention
+    - phrase. according to a custom or rule which has been generally accepted for a long time
+    - e.g. By convention, the oldest member of the organization opens the meeting.
+    - 按照惯例
+- homonymous program
+    - n. a program that has the same name as another program
+    - e.g. The homonymous program caused confusion among the users.
+    - 同名程序
+- Up to this point
+    - phrase. until now or until the specific point in time being considered
+    - e.g. Up to this point, everything has gone according to plan.
+    - 到目前为止
+- insurmountable
+    - adj. too great to be overcome
+    - e.g. They faced insurmountable difficulties.
+    - 无法克服的
+- criticality
+    - n. the quality of being critical; importance
+    - e.g. The criticality of this decision cannot be overstated.
+    - 临界性
