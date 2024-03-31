@@ -1,0 +1,9 @@
+- 语音识别
+- 图像识别
+- 应用
+  - 微软Azure
+- SLAM
+  - "Probabilistic Robotics" by Sebastian Thrun, Wolfram Burgard, and Dieter Fox
+  - "Introduction to Autonomous Mobile Robots" by Roland Siegwart, Illah R. Nourbakhsh, and Davide Scaramuzza
+  - "Simultaneous Localization and Mapping: Exactly Sparse Information Filters" by Zhan Wang, Shoudong Huang, and Gamini Dissanayake
+  - "Multiple View Geometry in Computer Vision" by Richard Hartley and Andrew Zisserman

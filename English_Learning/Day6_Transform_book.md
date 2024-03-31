@@ -1,0 +1,37 @@
+- Significant Other
+    - n. A person with whom someone has an established romantic or sexual relationship.
+    - e.g. I'm going to dinner with my significant other tonight.
+    - 重要的另一半
+- Co-founder
+    - n. A person who, together with one or more others, starts a business or organization.
+    - e.g. She is the co-founder of a non-profit organization.
+    - 共同创始人
+- Fuel (fueled)
+    - v. To supply with material that can be consumed to produce energy.
+    - e.g. The fire was fueled by wood.
+    - 由...驱动
+- Pillars
+    - n. A tall vertical structure of stone, wood, or metal, used as a support for a building, or as an ornament or monument.
+    - e.g. The ancient Greek temple is still standing on its original pillars.
+    - 柱子
+- Witness (witnessing)
+    - v. To see something happen, especially an accident or crime.
+    - e.g. He witnessed the accident while he was walking his dog.
+    - 见证（正在见证）
+- witness the expansioin of social networks
+  - 见证社交网络的扩张
+- Get hands dirty
+    - v. To become involved in all aspects of a situation, including the difficult or unpleasant ones.
+    - e.g. You have to get your hands dirty if you want to learn all aspects of gardening.
+    - 亲自动手做
+- BERT Model
+    - n. A transformer-based machine learning technique for natural language processing (NLP). BERT stands for Bidirectional Encoder Representations from Transformers.
+    - e.g. The BERT model has significantly improved the state-of-the-art for many NLP tasks.
+    - BERT模型
+- Essence of human communication
+    - n. The fundamental nature or inherent characteristic of interpersonal interaction, often involving speech, nonverbal elements, and written text.
+    - e.g. Understanding the essence of human communication is key to effective interpersonal relationships.
+    - 人类交流的本质
+- Civilizations would never have been born without the word sequences that form language. 
+    - 如果没有构成语言的词序列，文明将永远不会诞生。
+
