@@ -934,3 +934,11 @@
 ##### Synonyms: As a Rule, Customarily
 ##### *按照惯例*
 ### Day4
+#### integration framework
+##### 集成框架
+##### Intergration framwork is a platform that provides a unified architecture for connecting different systems, applications, and services within an organization. It allows for seamless data exchange and communication between disparate systems, enabling better collaboration and efficiency.
+#### scheduling formulation
+##### 调度公式
+##### Scheduling formulation refers to the mathematical representation of a scheduling problem, including the constraints, objectives, and variables involved. It helps in formulating and solving complex scheduling problems in various domains such as manufacturing, transportation, and project management.
+
+
