@@ -1,0 +1,20 @@
+# Plan in April
+## 4.17
+- [ ] Reinforcement Learning overview
+- [ ] two papers about BTs
+- [ ] Transformer with BTs
+### Thinking
+#### BTs algorithms
+- is really necessary to use BTs with exploring each node, It seems it use nonexperienced nodes to explore the tree. which is non efficient.
+- How to describe the language of rules and also the experience of the rules.
+- each BT has its own rules. how to create a general BTs, which can suites most models?
+#### Define more about the tasks
+- let robot pick up the object from table to the box in B point
+- translate the text in newspaper and display it in the screen, last write the comment to the article.
+- LLMs is different to automaticaly generate the BTs, LLMs just follow or guess with high possiblility, but BTs is more like a tree to explore the rules.
+### how to create a BTs with help of LLMs
+- LLMs can generate the rules, and BTs can explore the rules.
+- ![](images/2024-04-17-17-35-20.png)
+- A rule is actually an algorithm, which can be used to generate the BTs.
+- alpha go tech could help:
+- chatgpt can create a BT, how?
