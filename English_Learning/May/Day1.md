@@ -97,3 +97,17 @@
 ##### *中文意思是: 在我们可以处理用户输入值之前，我们需要用用户输入值填充数组。*
 ##### Synonyms: Fill, Load
 ##### *填充，加载*
+#### Manipulator
+##### n. /məˈnɪpjʊleɪtər/ In the context of programming, a manipulator is an object or function that changes the state of the stream or the way it behaves. In C++, manipulators are used to format output and control the behavior of input and output streams.
+##### *中文意思是: 在编程的上下文中，操作器是改变流的状态或其行为方式的对象或函数。在C++中，操作器用于格式化输出和控制输入和输出流的行为。*
+##### e.g. In C++, `endl` and `setw` are examples of manipulators.
+##### *中文意思是: 在C++中，`endl`和`setw`是操作器的例子。*
+##### Synonyms: Operator, Controller
+##### *操作符，控制器*
+#### Manipulator Robot
+##### phrase /məˈnɪpjʊleɪtər ˈroʊbɒt/ In the context of robotics, a manipulator robot is a type of robot that is used to manipulate the environment. These robots are often used in industrial applications for tasks such as assembly, painting, and welding.
+##### *中文意思是: 在机器人学的上下文中，操作器机器人是一种用于操纵环境的机器人。这些机器人通常用于工业应用，如装配，喷漆和焊接。*
+##### e.g. The manipulator robot in our factory is responsible for assembling the parts of our product.
+##### *中文意思是: 我们工厂中的操作器机器人负责组装我们产品的部件。*
+##### Synonyms: Industrial Robot, Robotic Arm
+##### *工业机器人，机器人手臂*
