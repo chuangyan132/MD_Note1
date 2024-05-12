@@ -49,3 +49,4 @@ async def fetch_data(url):
 ### What is IK solver?
 > An IK solver, or Inverse Kinematics solver, is a crucial component in robotics and animation that calculates the necessary joint configurations to achieve a desired position or orientation of an end-effector or a target part of a system. This is particularly important in complex robotic arms and animated characters where precise control over movement and positioning is necessary.
 
+

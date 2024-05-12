@@ -111,3 +111,10 @@
 ##### *中文意思是: 我们工厂中的操作器机器人负责组装我们产品的部件。*
 ##### Synonyms: Industrial Robot, Robotic Arm
 ##### *工业机器人，机器人手臂*
+#### Bypass
+##### v. /ˈbaɪpɑːs/ In the context of software development, "bypass" often refers to the act of avoiding or circumventing a certain part of the code or a process. This could be done for various reasons such as testing, debugging, or to avoid a known issue that has not yet been resolved.
+##### *中文意思是: 在软件开发的上下文中，"绕过"通常指的是避免或规避代码或过程的某一部分的行为。这可以出于各种原因，如测试，调试，或者避免一个尚未解决的已知问题。*
+##### e.g. We need to bypass the authentication process in our test environment to speed up the testing process.
+##### *中文意思是: 我们需要在测试环境中绕过认证过程，以加速测试过程。*
+##### Synonyms: Circumvent, Avoid
+##### *规避，避免*
