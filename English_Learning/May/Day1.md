@@ -118,3 +118,13 @@
 ##### *中文意思是: 我们需要在测试环境中绕过认证过程，以加速测试过程。*
 ##### Synonyms: Circumvent, Avoid
 ##### *规避，避免*
+
+## Day3
+### Isaac
+#### zero out
+##### phrase /zɪər aʊt/ In the context of programming, "zero out" often refers to the act of setting a variable or memory location to zero. This is commonly done to initialize variables or clear memory before using it.
+##### *中文意思是: 在编程的上下文中，"清零"通常指的是将变量或内存位置设置为零的行为。这通常用于初始化变量或在使用之前清除内存。*
+##### e.g. We need to zero out the buffer before reading new data into it.
+##### *中文意思是: 我们需要在读入新数据之前清零缓冲区。*
+##### Synonyms: Reset, Clear
+##### *重置，清除*

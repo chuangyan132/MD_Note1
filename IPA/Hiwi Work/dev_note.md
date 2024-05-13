@@ -49,4 +49,19 @@ async def fetch_data(url):
 ### What is IK solver?
 > An IK solver, or Inverse Kinematics solver, is a crucial component in robotics and animation that calculates the necessary joint configurations to achieve a desired position or orientation of an end-effector or a target part of a system. This is particularly important in complex robotic arms and animated characters where precise control over movement and positioning is necessary.
 
+### Setup a camera in a scene explanation
+```python
+import carb # Import the CARB library. carb is a module likely related to the Omniverse platform, specifically used for Carbonite scripting. Carbonite is a core component in NVIDIA Omniverse that facilitates scripting and automation tasks. This module might be utilized to interact with low-level functionalities within the Omniverse environment, such as logging, file system operations, and event handling
+from omni.isaac.kit import SimulationApp
+# 
+```
+
+### What is camera intrinsics?
+> "camera intrinsics" refer to the internal characteristics of a camera that affect how it captures images. These intrinsic parameters are used to convert the 3D coordinates of a point in the world to the 2D coordinates on the camera's image sensor.
+
+- focal length
+- principal point
+- distorition coefficients
+- camera matrix
+- ![](images/2024-05-13-16-10-30.png)
 
