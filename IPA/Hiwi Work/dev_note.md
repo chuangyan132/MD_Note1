@@ -65,3 +65,55 @@ from omni.isaac.kit import SimulationApp
 - camera matrix
 - ![](images/2024-05-13-16-10-30.png)
 
+### How to use ssh 
+#### 1. check for existing SSH keys
+```bash
+ls -al ~/.ssh
+```
+#### 2. Generate a new SSH key
+```bash
+ssh-keygen -t ed25519 -C "email@example.com" # why ed25519? it is a secure elliptic curve algorithm that provides strong security with faster performance compared to other algorithms like RSA
+
+# or we can use RSA
+ssh-keygen -t rsa -b 4096 -C "email@example.com"
+```
+
+#### 3. Add your SSH key to the ssh-agent
+```bash
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+# or ras model
+ssh-add ~/.ssh/id_rsa
+```
+
+#### 4. Add the SSH key to your GitHub account
+- Copy the SSH key to your clipboard
+```bash
+cat ~/.ssh/id_ed25519.pub
+# or rsa model
+cat ~/.ssh/id_rsa.pub
+```
+
+- Add the SSH key to your GitHub account
+  - Go to your GitHub account settings
+  - Click on "SSH and GPG keys"
+  - Click on "New SSH key"
+  - Paste the copied key into the "Key" field
+  - Click "Add SSH key"
+#### 5. Test the SSH connection
+```bash
+ssh -T git@github.com
+```
+
+#### 6. Configure Git to use SSH
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "email@example.com"
+```
+
+#### 7. clone one repository using SSH in Obsidian by git plugin
+
+
+
+
+ 
