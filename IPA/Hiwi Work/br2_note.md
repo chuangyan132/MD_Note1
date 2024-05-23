@@ -15,3 +15,25 @@
 ### What is a costmap?
 > A costmap is a grid-based representation of the environment used in robot navigation and path planning. It assigns costs to different cells in the grid to represent obstacles, free space, and other relevant information about the environment. Costmaps are commonly used in conjunction with localization and mapping algorithms to help robots plan collision-free paths and avoid obstacles while navigating in complex environments.
 
+### What is yield/generator framwork in python?
+> The yield statement in Python is used to create a generator function, which is a special type of iterator that can be paused and resumed during iteration. When a generator function is called, it returns a generator object that can be iterated over using a for loop or other iteration constructs. The yield statement is used to yield values from the generator function, allowing it to produce a sequence of values without storing them all in memory at once. This makes generators memory-efficient and suitable for processing large datasets or infinite sequences.
+
+- example
+```python
+def fibonacci(n):
+    a, b = 0, 1
+    for _ in range(n):
+        yield a
+        a, b = b, a + b
+
+fib = fibonacci(10)
+for num in fib:
+    print(num)
+```
+
+- how to understand yield()
+  - used to create a generator function
+- What is generator?
+  - a special type of iterator that can be paused and resumed during iteration
+
+### 
